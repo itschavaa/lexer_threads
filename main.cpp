@@ -3,7 +3,7 @@
 //Alejandra Cabrera A01704463
 //Lexer Paralelo
 //To compile: g++ main.cpp -pthread
-//To execute: ./a test1.cpp
+//To execute: ./a test1.cpp test2.cpp test3.cpp test4.cpp
 
 #include <iostream>
 #include <cmath>
